@@ -33,6 +33,11 @@ A local, dependency-free email QA checker with fictional before/after examples, 
 
 This is a self-directed, AI-assisted work sample. It does not access customer accounts, send emails, or establish client results. [See the source, examples, and limits](https://github.com/Nimrodogachi/Journey-#readme).
 
+
+[**Checkout-reminder decision QA →**](https://github.com/Nimrodogachi/Journey-/blob/main/docs/lifecycle-decision-case-study.md)
+
+A second runnable work sample with 30 fictional scenarios for consent, suppression, purchase timing, delay, cooldown, and missing data. The source, expected decisions, report, and decision log are public and reproducible. These fixture results do not establish production performance or authorize real sends.
+
 ## Free retention resources
 
 - [Second-purchase scorecard and work samples](https://nimrodjohnson.wordpress.com/2026/09/20/free-second-purchase-scorecard-and-retention-work-samples/): a practical evidence checklist plus illustrative pet-care, coffee and agency QA examples.
