@@ -25,6 +25,14 @@ I’m the founder of **Repeat Foundry**, based in Nairobi, Kenya. My work focuse
 The portfolio includes self-directed demonstrations and public brand reviews. Each example explains the context, assumptions and proposed approach.
 
 
+## Featured GitHub project
+
+[**Repeat Foundry Email Preflight →**](https://github.com/Nimrodogachi/Journey-)
+
+A local, dependency-free email QA checker with fictional before/after examples, automated tests, and a practical lifecycle handoff template. It flags selected link, tracking, image-alt, and personalization risks, then makes the remaining platform checks explicit.
+
+This is a self-directed, AI-assisted work sample. It does not access customer accounts, send emails, or establish client results. [See the source, examples, and limits](https://github.com/Nimrodogachi/Journey-#readme).
+
 ## Free retention resources
 
 - [Second-purchase scorecard and work samples](https://nimrodjohnson.wordpress.com/2026/09/20/free-second-purchase-scorecard-and-retention-work-samples/): a practical evidence checklist plus illustrative pet-care, coffee and agency QA examples.
@@ -41,6 +49,8 @@ Scoped Klaviyo flow audits, post-purchase email copy, lifecycle specifications a
 
 [LinkedIn](https://www.linkedin.com/in/nimrod-ogachi/) · [Repeat Foundry](https://nimrod-ogachi-klaviyo.netlify.app/repeat-foundry/) · [Quora](https://www.quora.com/profile/Nimrod-Ogachi) · [Instagram](https://www.instagram.com/nimrod_ogachi/)
 
+
+For a scoped lifecycle copy, flow-specification, or QA conversation: [ogachi.nimrod@gmail.com](mailto:ogachi.nimrod@gmail.com).
 
 Open to conversations about lifecycle email, CRM workflows and customer retention.
 
