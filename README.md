@@ -49,6 +49,9 @@ These are educational tools and fictional demonstrations, not paid-client case s
 
 Scoped Klaviyo flow audits, post-purchase email copy, lifecycle specifications and pre-launch QA for Shopify/DTC brands and agencies. Deliverables start with a defined question, documented assumptions and a clear handoff.
 
+
+[**Explore my post-purchase copy review and QA handoff service on Contra →**](https://contra.com/s/PqMEQRNZ-post-purchase-email-copy-review-and-qa-handoff) One journey, up to three emails, with scope and pricing agreed first.
+
 ## Connect
 
 
