@@ -27,6 +27,10 @@ The portfolio includes self-directed demonstrations and public brand reviews. Ea
 
 ## Featured GitHub project
 
+[**Would you send it? A three-minute email review →**](https://github.com/Nimrodogachi/Journey-/blob/main/docs/would-you-send-it.md)
+
+Compare fictional drafts and see what still needs checking before release. A short, self-directed exercise for ecommerce teams; no Python or account access required.
+
 [**Repeat Foundry Email Preflight →**](https://github.com/Nimrodogachi/Journey-)
 
 A local, dependency-free email QA checker with fictional before/after examples, automated tests, and a practical lifecycle handoff template. It flags selected link, tracking, image-alt, and personalization risks, then makes the remaining platform checks explicit.
