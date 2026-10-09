@@ -62,6 +62,8 @@ Scoped Klaviyo flow audits, post-purchase email copy, lifecycle specifications a
 [LinkedIn](https://www.linkedin.com/in/nimrod-ogachi/) · [Repeat Foundry](https://nimrod-ogachi-klaviyo.netlify.app/repeat-foundry/) · [Quora](https://www.quora.com/profile/Nimrod-Ogachi) · [Instagram](https://www.instagram.com/nimrod_ogachi/)
 
 
+[Repeat Foundry company website](https://repeatfoundry.netlify.app/)
+
 For a scoped lifecycle copy, flow-specification, or QA conversation: [ogachi.nimrod@gmail.com](mailto:ogachi.nimrod@gmail.com).
 
 Open to conversations about lifecycle email, CRM workflows and customer retention.
